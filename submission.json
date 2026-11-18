@@ -8,9 +8,9 @@
   "courseCode": "AI316B",
   "courseName": "Software System Engineering and DevOps",
   "githubUsername": "Ankitsam25",
-  "dockerHubUsername": "ankitsam25",
-  "frontendImage": "ankitsam25/taskflow-frontend:latest",
-  "backendImage": "ankitsam25/taskflow-backend:latest",
+  "dockerHubUsername": "4321ankit4321",
+  "frontendImage": "4321ankit4321/taskflow-frontend:latest",
+  "backendImage": "4321ankit4321/taskflow-backend:latest",
   "applicationUrl": "http://localhost:8080",
   "backendHealthUrl": "http://localhost:3000/health"
 }

@@ -13,12 +13,12 @@ DOCKER-EXAM | 2400291520049 | Ankit Sharma | CSE-AI(A)
 - Roll Number: 2400291520049
 - Section: CSE-AI(A)
 - GitHub Username: Ankitsam25
-- Docker Hub Username: ankitsam25
+- Docker Hub Username: 4321ankit4321
 
 ## Docker Hub Images
 
-- Frontend Image: docker.io/ankitsam25/taskflow-frontend:latest (and ankitsam25/frontend:latest)
-- Backend Image: docker.io/ankitsam25/taskflow-backend:latest (and ankitsam25/backend:latest)
+- Frontend Image: docker.io/4321ankit4321/taskflow-frontend:latest
+- Backend Image: docker.io/4321ankit4321/taskflow-backend:latest
 
 ## Application Deployment
 

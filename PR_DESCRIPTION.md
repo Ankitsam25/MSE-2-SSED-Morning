@@ -41,8 +41,9 @@ DOCKER-EXAM | 2400291520049 | Ankit Sharma | CSE-AI(A)
 
 ## CI/CD Verification
 
-- CD Workflow Run URL: https://github.com/Ankitsam25/MSE-2-SSED-Morning/actions
-- Final Workflow Status: Success
+- CD Workflow Run URL: https://github.com/Ankitsam25/MSE-2-SSED-Morning/actions/runs/44306932053
+- CI Evaluation Run URL: https://github.com/Ankitsam25/MSE-2-SSED-Morning/actions/runs/44306932295
+- Final Workflow Status: Success (All checks passed)
 
 ## Declaration
 

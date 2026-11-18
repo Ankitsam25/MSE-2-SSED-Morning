@@ -1,0 +1,16 @@
+{
+  "name": "Ankit Sharma",
+  "rollNumber": "2400291520049",
+  "studentId": "202401100300049",
+  "section": "CSE-AI(A)",
+  "branch": "CSE-AI",
+  "program": "Bachelor of Technology",
+  "courseCode": "AI316B",
+  "courseName": "Software System Engineering and DevOps",
+  "githubUsername": "Ankitsam25",
+  "dockerHubUsername": "ankitsam25",
+  "frontendImage": "ankitsam25/taskflow-frontend:latest",
+  "backendImage": "ankitsam25/taskflow-backend:latest",
+  "applicationUrl": "http://localhost:8080",
+  "backendHealthUrl": "http://localhost:3000/health"
+}
